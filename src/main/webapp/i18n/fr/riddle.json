@@ -1,0 +1,22 @@
+{
+  "riddleApplicationApp": {
+    "riddle": {
+      "home": {
+        "title": "Riddles",
+        "createLabel": "Créer un nouveau Riddle",
+        "createOrEditLabel": "Créer ou éditer un Riddle",
+        "notFound": "Aucun Riddle trouvé"
+      },
+      "created": "Un nouveau Riddle a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Riddle avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Riddle avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Riddle {{ id }} ?"
+      },
+      "detail": {
+        "title": "Riddle"
+      },
+      "name": "Name"
+    }
+  }
+}

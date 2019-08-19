@@ -43,6 +43,7 @@ public class CacheConfiguration {
             createCache(cm, com.jfn.riddle.backend.domain.User.class.getName());
             createCache(cm, com.jfn.riddle.backend.domain.Authority.class.getName());
             createCache(cm, com.jfn.riddle.backend.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.jfn.riddle.backend.domain.Riddle.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
