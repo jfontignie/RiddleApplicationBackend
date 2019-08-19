@@ -1,0 +1,6 @@
+
+entity Riddle {
+	name String required
+}
+
+paginate Riddle with infinite-scroll

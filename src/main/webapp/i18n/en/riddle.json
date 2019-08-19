@@ -1,0 +1,22 @@
+{
+  "riddleApplicationApp": {
+    "riddle": {
+      "home": {
+        "title": "Riddles",
+        "createLabel": "Create a new Riddle",
+        "createOrEditLabel": "Create or edit a Riddle",
+        "notFound": "No Riddles found"
+      },
+      "created": "A new Riddle is created with identifier {{ param }}",
+      "updated": "A Riddle is updated with identifier {{ param }}",
+      "deleted": "A Riddle is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Riddle {{ id }}?"
+      },
+      "detail": {
+        "title": "Riddle"
+      },
+      "name": "Name"
+    }
+  }
+}
